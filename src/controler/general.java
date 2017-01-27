@@ -1,4 +1,4 @@
-package controler;
+package Controler;
 
 public class general {
 	

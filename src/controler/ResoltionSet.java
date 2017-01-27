@@ -1,4 +1,4 @@
-package controler;
+package Controler;
 
 import java.awt.DisplayMode;
 import java.awt.GraphicsDevice;
